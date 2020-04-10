@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import App from '../App';
 
 const Formulario = ({ setBusquedaLetra }) => {
     const [busqueda, setBusqueda] = useState({
